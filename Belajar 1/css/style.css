@@ -1,0 +1,11 @@
+.jumbotron {
+  margin-top: 50px;
+}
+
+.about {
+  min-height: 400px;
+}
+
+.portfolio {
+  min-height: 800px;
+}
